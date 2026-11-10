@@ -38,7 +38,7 @@ Talking is about three times faster than typing. Voxa turns speech into text in 
 
 ## Branding
 
-| | |
+| Element | Detail |
 |---|---|
 | **Name** | Voxa, from *vox*, Latin for "voice" |
 | **Tagline** | Your voice, typed. |
