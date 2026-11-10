@@ -1,0 +1,1 @@
+{ 'version': 0, 'roots': [ { 'type': 'file', 'name': '/Library/Developer/CommandLineTools/usr/include/swift/module.modulemap', 'external-contents': '/Users/karolgrzybek/projects/dictate/mac/toolchain-fix/empty.modulemap' } ] }

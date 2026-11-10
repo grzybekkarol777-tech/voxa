@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local signing identity (made by mac/make-cert.sh)
+mac/signing/
+
+# Build output
+mac/build/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local models, recordings, runtime files
+models/
+*.wav
+*.lock
+!uv.lock
+
+# macOS
+.DS_Store
